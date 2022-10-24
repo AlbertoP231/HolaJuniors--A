@@ -26,14 +26,14 @@ button {
     width: 300px;
     border-radius: 16px;
 }
-
-
-
-
-
-
-
-
+.container-icons {
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
 @media (max-width: 640px){
 
 }
