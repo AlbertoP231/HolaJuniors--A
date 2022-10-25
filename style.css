@@ -34,6 +34,16 @@ button {
     justify-content: space-evenly;
     
 }
+img {
+    width: 125px;
+    height: 150px;
+}
+.imagen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
 @media (max-width: 640px){
 
 }
